@@ -90,7 +90,7 @@
         <div class="col-md-5">
           <h3><?php echo $data["title"]; ?></h3>
           <p><?php echo $data["description"]; ?></p>
-          <a class="btn btn-primary" href="#">View Project</a>
+          <a class="btn btn-primary" href="detail.php">View Details</a>
         </div>
       </div>
       <hr>
